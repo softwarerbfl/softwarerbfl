@@ -28,12 +28,12 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/orange._.rbfl"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://nosy-blade-54b.notion.site/Road-Map-9f65771faa824677aa28e2acdbdf6577">
+<a href="https://blog.naver.com/missrbfl">
     <img 
         src="http://img.shields.io/badge/-Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/missrbfl"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://blog.naver.com/missrbfl">
+<a href="https://nosy-blade-54b.notion.site/Road-Map-9f65771faa824677aa28e2acdbdf6577">
     <img 
         src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://nosy-blade-54b.notion.site/Road-Map-9f65771faa824677aa28e2acdbdf6577"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
