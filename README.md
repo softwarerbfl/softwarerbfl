@@ -2,6 +2,7 @@
 ---
 -  **단국대학교 소프트웨어학과 4학년 전공** (20.03 ~ )
 -  **단국대학교 BITL(생명 정보 기술 연구실) 학부 연구생 활동** (21.05 ~ 22.02)
+-  **TABA(Tmax AI/Bigdata Academy) 1기 수료** (22.09 ~ 22.12)
 
 ### 💻 Skills 
 ---
@@ -29,12 +30,12 @@
 </a>
 <a href="https://nosy-blade-54b.notion.site/Road-Map-9f65771faa824677aa28e2acdbdf6577">
     <img 
-        src="http://img.shields.io/badge/-Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://nosy-blade-54b.notion.site/Road-Map-9f65771faa824677aa28e2acdbdf6577"
+        src="http://img.shields.io/badge/-Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/missrbfl"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://blog.naver.com/missrbfl">
     <img 
-        src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://blog.naver.com/missrbfl"
+        src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://nosy-blade-54b.notion.site/Road-Map-9f65771faa824677aa28e2acdbdf6577"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
