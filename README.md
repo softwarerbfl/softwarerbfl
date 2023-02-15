@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF6F3C&fontColor=f7f5f5&height=300&section=header&text=GyuRi's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38)
+
 ### 🏢 Profile
 ---
 -  **단국대학교 소프트웨어학과 4학년 전공** (20.03 ~ )
@@ -43,3 +45,10 @@
 ### BaekJoon Algorithm Tier (solved.ac) 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=missrbfl)](https://solved.ac/missrbfl/)
+
+### Github Stats
+---
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=softwarerbfl&show_icons=true&theme=onedark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarerbfl&layout=compact&theme=onedark">
+</p>
