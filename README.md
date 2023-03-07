@@ -44,11 +44,15 @@
 
 ### BaekJoon Algorithm Tier (solved.ac) 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=missrbfl)](https://solved.ac/missrbfl/)
+
+<p align='center'>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=missrbfl">
+    <img src="http://mazandi.herokuapp.com/api?handle=missrbfl"/>
+</p>
 
 ### Github Stats
 ---
-<p>
+<p align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=softwarerbfl&show_icons=true&theme=onedark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarerbfl&layout=compact&theme=onedark">
 </p>
