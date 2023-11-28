@@ -7,7 +7,8 @@
 -  **TABA(Tmax AI/Bigdata Academy) 1기 수료** (22.09 ~ 22.12)
 -  **프로그래밍 연합 동아리 멋쟁이 사자처럼 11기 활동** (23.03 ~ )
 -  **프로그래밍 연합 동아리 멋쟁이 사자처럼 교내 아이디어톤 1위** (23.06)
--  **ASAC(Allied SW Academy of Companies) T아카데미 웹 풀스택 과정 3기 활동** (23.07 ~ ) 
+-  **ASAC(Allied SW Academy of Companies) 웹 풀스택 개발자 교육 수료(SK 플래닛)** (23.07 ~ 23.11) 
+-  **교보정보통신 애플 B2B 쇼핑몰 기능 개발** (23.11 ~ )
 
 ### 💻 Skills 
 ---
