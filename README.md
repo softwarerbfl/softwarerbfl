@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF6F3C&fontColor=f7f5f5&height=300&section=header&text=GyuRi's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f76806&fontColor=f7f5f5&height=300&section=header&text=GyuRi's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 ### 🏢 Profile
 ---
